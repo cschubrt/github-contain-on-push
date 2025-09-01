@@ -1,4 +1,4 @@
-# React + Javascreiptn +  Vite
+# React + TypeScript +  Vite
 
 Creates an updated Docker image anytime a push is made to the main GitHub branch.
 
